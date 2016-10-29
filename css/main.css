@@ -9,3 +9,11 @@ body {
   padding-top: 40px;
   padding-right: 10px;
 }
+
+.project-image-and-text{
+    clear:both;
+}
+
+.project-image{
+    float:right;
+}
