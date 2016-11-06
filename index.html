@@ -64,12 +64,12 @@
 
       <div id="projects">
         <h2>Projects</h2>
-        <p><ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: bullet; padding-left:0;">
+        <p><ul style="columns: 2; -webkit-columns: 2; -moz-columns: 2; list-style-type: none; padding-left:0;">
         <li><a href="#project_feat_eng_viz">Feature Engineering Visualization Tool</a></li>
         <li><a href="#project_patent">Patent Feature Mining</a></li>
         <li><a href="#project_phet">PhET Log Analysis (Masters' Thesis Research)</a></li>
-        <li><a href="#project_qileap_food">Qi Leap - Food Prediction</a></li>
-        <li><a href="#project_qileap_sports_betting">Qi Leap - Sports Betting Prediction</a></li>
+        <!--<li><a href="#project_qileap_food">Qi Leap - Food Prediction</a></li>
+        <li><a href="#project_qileap_sports_betting">Qi Leap - Sports Betting Prediction</a></li>-->
         <li><a href="#project_segregation">Spacial Segregation with Mobile Phone Data</a></li>
         <li><a href="#project_oira">Topic Modeling with OIRA Data</a></li>
         <li><a href="#project_youtube">Google Intern - Enriching YouTube's Education Content</a></li>
@@ -82,15 +82,20 @@
 		<hr>
 		<div style="padding-top: 50px; margin-top: -50px;" id="project_patent">
 		  <h3>Patent Feature Mining</h3>
-		  <div> Morbi feugiat, sapien a ullamcorper malesuada, tortor dui commodo risus, et euismod nulla nulla vel libero. Suspendisse pulvinar rutrum est imperdiet finibus. Mauris in vehicula leo, eget congue tellus. Mauris efficitur nunc libero. Quisque ac massa in dolor placerat vulputate vel ut leo. Nullam commodo rutrum metus in imperdiet. Integer eu justo turpis. Sed ipsum massa, sagittis id convallis quis, ultrices vitae ante. Pellentesque dapibus sollicitudin maximus. Curabitur eu fringilla leo, at rutrum mauris. Suspendisse varius turpis vitae velit dictum, nec ullamcorper sapien fringilla. Morbi sapien metus, dignissim vitae dictum quis, ornare ac tellus. Donec blandit mi vitae luctus porta. Suspendisse id aliquam mi. Morbi aliquam et enim vel accumsan. Donec facilisis nisl nisi, in vulputate quam ullamcorper quis. Morbi at malesuada metus. Etiam et urna eleifend, ultricies turpis lacinia, facilisis nulla. Pellentesque ornare auctor ex ultrices auctor. Integer blandit tempor neque quis venenatis. Vestibulum sit amet augue imperdiet, luctus arcu in, mollis lacus. Nullam placerat nisi mi, quis hendrerit urna gravida nec. Proin eros purus, volutpat eget tortor fermentum, tincidunt pretium dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer sagittis, nunc nec vehicula ultricies, ipsum augue maximus nisl, et fermentum lorem arcu ac nisi. </div>
+		  <div> Developing an efficient tool to parse heterogeneous US patent documents (1TB textual data, 1976 - present) to mine those containing key patterns of interest and exract features to correlate with stock market fluctuations. Morbi feugiat, sapien a ullamcorper malesuada, tortor dui commodo risus, et euismod nulla nulla vel libero. Suspendisse pulvinar rutrum est imperdiet finibus. Mauris in vehicula leo, eget congue tellus. Mauris efficitur nunc libero. Quisque ac massa in dolor placerat vulputate vel ut leo. Nullam commodo rutrum metus in imperdiet. Integer eu justo turpis. Sed ipsum massa, sagittis id convallis quis, ultrices vitae ante. Pellentesque dapibus sollicitudin maximus. Curabitur eu fringilla leo, at rutrum mauris. Suspendisse varius turpis vitae velit dictum, nec ullamcorper sapien fringilla. Morbi sapien metus, dignissim vitae dictum quis, ornare ac tellus. Donec blandit mi vitae luctus porta. Suspendisse id aliquam mi. Morbi aliquam et enim vel accumsan. Donec facilisis nisl nisi, in vulputate quam ullamcorper quis. Morbi at malesuada metus. Etiam et urna eleifend, ultricies turpis lacinia, facilisis nulla. Pellentesque ornare auctor ex ultrices auctor. Integer blandit tempor neque quis venenatis. Vestibulum sit amet augue imperdiet, luctus arcu in, mollis lacus. Nullam placerat nisi mi, quis hendrerit urna gravida nec. Proin eros purus, volutpat eget tortor fermentum, tincidunt pretium dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer sagittis, nunc nec vehicula ultricies, ipsum augue maximus nisl, et fermentum lorem arcu ac nisi. </div>
 		</div>
 		<hr>
 		<div style="padding-top: 50px; margin-top: -50px;" id="project_phet">
 		  <h3>PhET Log Analysis (Master's Thesis Research)</h3>
-		  <div> Analyzed a dataset of student's logged interactions with the Phet Circuit Construction Kit simulation. This was done by clustering users' behaviors during use of this simulation, and looking for clusters with differing learning gains so that we can mine the behaviors of those who learned a lot while working with this simulation and those that didn't (and others in between). These behaviors can then be used to provide hints to students throughout their interaction with the system to help encourage behaviors identified as productive in the hopes that they can learn more while working with the simulation. Built a user model to classify the users in real time so we can identify students as they are working. Master's thesis was related to the methods above and exploring different representations of user actions in this simulation. Paper accepted and presentation delivered on the topic to the 2015 AIED conference. Journal paper on the topic in review. </div>
+		  <div class="image-and-text">
+        <div class="project-image-right">
+          <img height="300px" src="images/phet_system.png"> 
+        </div>
+        <div>I analyzed a dataset of student's logged interactions with the Phet Circuit Construction Kit simulation. This was done by clustering users' behaviors during use of this simulation, and looking for clusters with differing learning gains so that we can mine the behaviors of those who learned a lot while working with this simulation and those that didn't (and others in between). These behaviors can then be used to provide hints to students throughout their interaction with the system to help encourage behaviors identified as productive in the hopes that they can learn more while working with the simulation. Built a user model to classify the users in real time so we can identify students as they are working. Master's thesis was related to the methods above and exploring different representations of user actions in this simulation. Paper accepted and presentation delivered on the topic to the 2015 AIED conference [<a href="papers/aied2015.pdf">PDF of conference paper</a>]. Journal paper on the topic in review. </div>
+      </div>
 		</div>
 		<hr>
-		<div style="padding-top: 50px; margin-top: -50px;" id="project_qileap_food">
+		<!--<div style="padding-top: 50px; margin-top: -50px;" id="project_qileap_food">
           <h3>Qi Leap - Food Prediction</h3>
 		  <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac lorem ut eros bibendum rhoncus. Fusce lacinia a tortor pretium scelerisque. Cras nec mollis ex. In sodales sed purus quis ullamcorper. Vivamus tellus erat, malesuada vel nisi at, aliquam lacinia sapien. Nam eget odio sapien. Mauris imperdiet fringilla lacus, et laoreet elit. Aenean egestas mi in congue pulvinar. Integer et nibh nec mi consequat fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. In consequat ligula purus, non dignissim nunc bibendum a. Proin sed mi sed nisl finibus gravida. Nulla accumsan accumsan nisi id congue. Phasellus vitae neque metus. Proin nec tristique diam. Cras varius metus at fringilla imperdiet. Curabitur commodo tempor felis quis pretium. Nam et elit mattis, ornare lectus vitae, maximus eros. Maecenas porttitor mauris ut sollicitudin sollicitudin. Proin a nunc sit amet justo aliquam malesuada. Sed posuere sem nibh, et lobortis enim facilisis sed. </div>
 		</div>
@@ -99,28 +104,31 @@
 		  <h3>Qi Leap - Sports Betting Prediction</h3>
 		  <div> Morbi feugiat, sapien a ullamcorper malesuada, tortor dui commodo risus, et euismod nulla nulla vel libero. Suspendisse pulvinar rutrum est imperdiet finibus. Mauris in vehicula leo, eget congue tellus. Mauris efficitur nunc libero. Quisque ac massa in dolor placerat vulputate vel ut leo. Nullam commodo rutrum metus in imperdiet. Integer eu justo turpis. Sed ipsum massa, sagittis id convallis quis, ultrices vitae ante. Pellentesque dapibus sollicitudin maximus. Curabitur eu fringilla leo, at rutrum mauris. Suspendisse varius turpis vitae velit dictum, nec ullamcorper sapien fringilla. Morbi sapien metus, dignissim vitae dictum quis, ornare ac tellus. Donec blandit mi vitae luctus porta. Suspendisse id aliquam mi. Morbi aliquam et enim vel accumsan. Donec facilisis nisl nisi, in vulputate quam ullamcorper quis. Morbi at malesuada metus. Etiam et urna eleifend, ultricies turpis lacinia, facilisis nulla. Pellentesque ornare auctor ex ultrices auctor. Integer blandit tempor neque quis venenatis. Vestibulum sit amet augue imperdiet, luctus arcu in, mollis lacus. Nullam placerat nisi mi, quis hendrerit urna gravida nec. Proin eros purus, volutpat eget tortor fermentum, tincidunt pretium dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer sagittis, nunc nec vehicula ultricies, ipsum augue maximus nisl, et fermentum lorem arcu ac nisi. </div>
 		</div>
-		<hr>
+		<hr>-->
 		<div style="padding-top: 50px; margin-top: -50px;" id="project_segregation">
 		  <h3>Spacial Segregation with Mobile Phone Data</h3>
-		  <div> Analyzed large datasets of phone calls in a developing South Asian country to determine the homophily of, and amount of segregation within, different groups in the population. Developed a novel way to measure segregation within a population. Also looking at clustering and networks of callers. Paper on this topic accepted to the 2013 ACM DEV Conference. 
-      Through this project, I looked at a large dataset of mobile phone users in a developing South Asian country. It involved large datasets of phone calls, phone users, and geographic data about cell phone tower location. My project was on the social interactions of the mobile phone users in the form of homophily (the tendency of people to make friendships with people like themselves) and segregation analysis. I looked at calls across different areas of Pakistan and computed homophily scores for the types of speakers that were present in that area - English and Urdu. I am also looking at differences in homophily and segregation for “work-time” vs “home-time” calls. These techniques will be broadly applicable to my future research. I have developed original results in performing this research, and anticipate submitting a paper on this topic to the Information and Communication Technologies and Development (ICTD) conference this coming year.</div>
+      <div class="image-and-text">
+        <div class="project-image-left">
+          <img height="300px" src="images/homophily.png"> 
+        </div>
+		    <div> Analyzed large datasets of phone calls in a developing South Asian country to determine the homophily of, and amount of segregation within, different groups in the population. Developed a novel way to measure segregation within a population. Also looking at clustering and networks of callers. Paper on this topic accepted to the 2013 ACM DEV Conference. 
+        Through this project, I looked at a large dataset of mobile phone users in a developing South Asian country. It involved large datasets of phone calls, phone users, and geographic data about cell phone tower location. My project was on the social interactions of the mobile phone users in the form of homophily (the tendency of people to make friendships with people like themselves) and segregation analysis. I looked at calls across different areas of a developing South Asian country and computed homophily scores for the types of speakers that were present in that area - English and the local language. I also looked at differences in homophily and segregation for “work-time” vs “home-time” calls. In this project, I developed a novel way to measure segregation within a population based on anonymized mobile phone records. A paper on this topic was accepted to the 2013 ACM DEV Conference [<a href="papers/dev2013.pdf">PDF</a>].</div>
+      </div>
 		</div>
 		<hr>
 		<div style="padding-top: 50px; margin-top: -50px;" id="project_oira">
       <h3>Topic Modeling with OIRA Data</h3>
-        <div class="image-and-text">
-	        <div class="project-image-left">
-            <img height="300px" src="images/phet_system.png"> 
-          </div>
-			    <div>Analyzed a dataset of student's logged interactions with the Phet Circuit Construction Kit simulation. This was done by clustering users' behaviors during use of this simulation, and looking for clusters with differing learning gains so that we can mine the behaviors of those who learned a lot while working with this simulation and those that didn't (and others in between). These behaviors can then be used to provide hints to students throughout their interaction with the system to help encourage behaviors identified as productive in the hopes that they can learn more while working with the simulation. Built a user model to classify the users in real time so we can identify students as they are working. Master's thesis was related to the methods above and exploring different representations of user actions in this simulation. Paper accepted and presentation delivered on the topic to the 2015 AIED conference. Journal paper on the topic in review. </div>
+      
+			  <div>Most recently, I had been working with topic models to understand how the policies of federal agencies are reviewed. I built a tool to scrape ~40,000 policies of federal agencies that were sent for review by the Office of Information and Regulatory Affairs (OIRA). OIRA chooses which of these policies to review and, for those reviewed, whether to approve them or request revisions. I developed topic models to facilitate an understanding of how policy requests are dispositioned.</div>
 		  </div>
 		</div>
 		<hr>
 		<div style="padding-top: 50px; margin-top: -50px;" id="project_youtube">
 		  <h3>Google Intern - Enriching YouTube's Education Content</h3>
-		  <div> Morbi feugiat, sapien a ullamcorper malesuada, tortor dui commodo risus, et euismod nulla nulla vel libero. Suspendisse pulvinar rutrum est imperdiet finibus. Mauris in vehicula leo, eget congue tellus. Mauris efficitur nunc libero. Quisque ac massa in dolor placerat vulputate vel ut leo. Nullam commodo rutrum metus in imperdiet. Integer eu justo turpis. Sed ipsum massa, sagittis id convallis quis, ultrices vitae ante. Pellentesque dapibus sollicitudin maximus. Curabitur eu fringilla leo, at rutrum mauris. Suspendisse varius turpis vitae velit dictum, nec ullamcorper sapien fringilla. Morbi sapien metus, dignissim vitae dictum quis, ornare ac tellus. Donec blandit mi vitae luctus porta. Suspendisse id aliquam mi. Morbi aliquam et enim vel accumsan. Donec facilisis nisl nisi, in vulputate quam ullamcorper quis. Morbi at malesuada metus. Etiam et urna eleifend, ultricies turpis lacinia, facilisis nulla. Pellentesque ornare auctor ex ultrices auctor. Integer blandit tempor neque quis venenatis. Vestibulum sit amet augue imperdiet, luctus arcu in, mollis lacus. Nullam placerat nisi mi, quis hendrerit urna gravida nec. Proin eros purus, volutpat eget tortor fermentum, tincidunt pretium dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Integer sagittis, nunc nec vehicula ultricies, ipsum augue maximus nisl, et fermentum lorem arcu ac nisi. </div>
+		  <div> Developed a tool as a member of the YouTube Education team to expand the education channel and improve content. Created a (mainly) front-end tool that allowed educators to both tag videos and search for ones already tagged. In this way, it made the experience of finding suitable videos for their classroom more efficient. It also allowed them to curate the content so that other educators could also more easily find suitable content.</div>
 		</div>
-      </div>
+  </div>
+  <br>
 
     </div><!-- /.container -->
 
