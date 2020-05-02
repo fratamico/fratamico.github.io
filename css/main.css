@@ -63,14 +63,50 @@ hr {
 	text-align: center;
 }
 
-.img_1-1{background-image:url('https://laurenfratamico.files.wordpress.com/2015/06/violinplot_viewcounts3.png');}
-.img_1-2{background-image:url('https://farm7.staticflickr.com/6092/6227418584_d5883b0948.jpg');}
-.img_1-3{background-image:url('https://farm8.staticflickr.com/7187/6895047173_d4b1a0d798.jpg');}
 
-.img_2-1{background-image:url('https://farm8.staticflickr.com/7163/6822904141_50277565c3.jpg');}
-.img_2-2{background-image:url('https://farm7.staticflickr.com/6139/5986939269_10721b8017.jpg');}
-.img_2-3{background-image:url('https://farm4.staticflickr.com/3165/5733278274_2626612c70.jpg');}
+/*for the recipes pages*/
+.slider-size {
+  height: 300px; 
+}
 
-.img_3-1{background-image:url('https://farm9.staticflickr.com/8429/7862595906_8f953fd25b.jpg');}
-.img_3-2{background-image:url('https://farm7.staticflickr.com/6083/6055581292_d94c2d90e3.jpg');}
-.img_3-3{background-image:url('https://farm4.staticflickr.com/3771/13199704015_72aa535bd7.jpg');}
+
+.recipe {
+    float:left;
+    position: relative;
+    width: 45%;
+    
+    margin-right:2.5%;
+    margin-bottom:1.66%;
+    margin-top:1.66%;
+}
+
+
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.container-flex {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 15px 0 0 0;
+}
+
+.ingredients {
+  background: #F8F8F8;
+  border: 1px solid #C0C0C0;
+  border-radius: 4px;
+  padding: 0 0 0 15px;
+  margin: 0 0 15px 0;
+  width: calc(33.3333%);
+}
+
+.instructions {
+  margin: 0 0 15px 15px;
+  width: calc(66.6666% - 15px);
+}
+
