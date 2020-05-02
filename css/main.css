@@ -110,3 +110,14 @@ html {
   width: calc(66.6666% - 15px);
 }
 
+
+@media only screen and (max-width: 500px) {
+  .ingredients {
+      background: #F8F8F8;
+      border: 1px solid #C0C0C0;
+      border-radius: 4px;
+      padding: 0 0 0 15px;
+      margin: 0 0 15px 0;
+      width: calc(100%);
+    }
+}
