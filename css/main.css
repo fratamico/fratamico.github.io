@@ -111,7 +111,7 @@ html {
 }
 
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-device-width: 500px) {
   .ingredients {
       background: #F8F8F8;
       border: 1px solid #C0C0C0;
