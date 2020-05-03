@@ -1,3 +1,8 @@
+---
+title: fun
+
+---
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -70,32 +75,17 @@
       <p class="lead">I've always enjoyed cooking and baking and making up my own recipes, but COVID-19 provided a nice time to finally formally preserve the creations online.</p>
 
       <h3>Select Recent Creations</h3>
+      {% for post in site.posts %}
+        <div class="square">
+          <a href="{{post.permalink}}" class="blog_text">
+            <p>{{post.title}}</p>
+            <div class="subimage" style="background-image: url('{{post.image}}');">
+            </div>
+          </a>
+        </div>
+      {% endfor %}
 
       <!-- 1st row verticaly centered images in square columns -->
-
-      <div class="square">
-        <a href="/recipes/danish_lasagna" class="blog_text">
-          <p>Danish Lasagna</p>
-          <div class="subimage" style="background-image: url('https://miro.medium.com/max/1280/1*T0GpDFnaOmSPgyUiQLweJQ.gif');">
-          </div>
-        </a>
-      </div>
-
-      <div class="square">
-        <a href="/recipes/danish_lasagna" class="blog_text">
-          <p>Spinach Onion Cheese Quiche</p>
-          <div class="subimage" style="background-image: url('https://miro.medium.com/max/1280/1*T0GpDFnaOmSPgyUiQLweJQ.gif');">
-          </div>
-        </a>
-      </div>
-
-      <div class="square">
-        <a href="/recipes/danish_lasagna" class="blog_text">
-          <p>Indian Baked Okra</p>
-          <div class="subimage" style="background-image: url('https://miro.medium.com/max/1280/1*T0GpDFnaOmSPgyUiQLweJQ.gif');">
-          </div>
-        </a>
-      </div>
     </div>
 
 
