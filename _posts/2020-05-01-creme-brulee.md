@@ -1,0 +1,28 @@
+---
+layout: recipe 
+permalink: /recipes/creme_brulee
+title: Crème Brûlée
+subtitle: yummy 🤤
+image: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+
+images:
+  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+    title: wefwe
+    subtitle: wefw
+  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+    title: wefwe
+    subtitle: wefw
+  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+    title: wefwe
+    subtitle: wefw
+  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+    title: wefwefwefwfwefwef
+    subtitle: fwewefwfwe
+  
+ingredients:
+  - Coffee
+  - Tea
+
+---
+
+Hello

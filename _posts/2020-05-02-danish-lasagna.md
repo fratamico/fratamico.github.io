@@ -3,21 +3,21 @@ layout: recipe
 permalink: /recipes/danish_lasagna
 title: Danish Lasagna
 subtitle: A twist on a classic that includes mushrooms, sweet potatoes, and béchamel
-image: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+image: /images/recipe_images/danish_lasagna/2020-03-15 19.39.52.jpg
 
 images:
-  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+  - url: /images/recipe_images/danish_lasagna/2020-03-15 17.01.35.jpg
     title: wefwe
     subtitle: wefw
-  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+  - url: /images/recipe_images/danish_lasagna/MVIMG_20200421_194500.jpg
     title: wefwe
     subtitle: wefw
-  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+  - url: /images/recipe_images/danish_lasagna/2020-03-15 19.39.52.jpg
     title: wefwe
     subtitle: wefw
-  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
-    title: wefwefwefwfwefwef
-    subtitle: fwewefwfwe
+  - url: /images/recipe_images/danish_lasagna/MVIMG_20200421_215303.jpg
+    title: wefwe
+    subtitle: wefw
   
 ingredients:
   - Coffee
@@ -25,5 +25,5 @@ ingredients:
 
 ---
 
-Hello
+Recipe coming soon!
 

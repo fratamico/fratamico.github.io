@@ -12,7 +12,7 @@ layout: default
           <div id="carousel-fixed-height" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
               {% for image in page.images %}
-                {% if forloop.first == true %}
+                {% if forloop.last == true %}
                   <li data-target="#carousel-fixed-height" data-slide-to="{{forloop.index}}" class="active"></li>
                 {% else %}
                   <li data-target="#carousel-fixed-height" data-slide-to="{{forloop.index}}" class=""></li>
@@ -22,7 +22,7 @@ layout: default
             <div class="carousel-inner" role="listbox">
               <!-- NOTE: Bootstrap v4 changes class name to carousel-item -->
               {% for image in page.images %}
-                {% if forloop.first == true %}
+                {% if forloop.last == true %}
                   <div class="item active">
                 {% else %}
                   <div class="item">
