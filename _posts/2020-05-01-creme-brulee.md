@@ -24,7 +24,7 @@ ingredients:
   - 5 egg yolks
   - 1/2 C granulated sugar + 6 tsp for topping
   - Pinch of salt
-  - Vanilla cxtract
+  - Vanilla extract
 
 ---
 
