@@ -7,14 +7,14 @@ image: /images/recipe_images/creme_brulee/00100lPORTRAIT_00100_BURST201910202116
 
 images:
   - url: /images/recipe_images/creme_brulee/00100lPORTRAIT_00100_BURST20191020211634842_COVER.jpg
-    title: wefwe
-    subtitle: wefw
+    title: 
+    subtitle: 
   - url: /images/recipe_images/creme_brulee/IMG_20191020_202635.jpg
-    title: wefwe
-    subtitle: wefw
+    title: 
+    subtitle: 
   - url: /images/recipe_images/creme_brulee/MVIMG_20200411_165514.jpg
-    title: wefwe
-    subtitle: wefw
+    title: 
+    subtitle: 
   
 ingredients:
   - 2 C heavy cream
