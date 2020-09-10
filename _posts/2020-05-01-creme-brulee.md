@@ -3,7 +3,7 @@ layout: recipe
 permalink: /recipes/creme_brulee
 title: Crème Brûlée
 subtitle: yummy 🤤
-image: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+image: /images/recipe_images/creme_brulee/00100lPORTRAIT_00100_BURST20191020211634842_COVER.jpg
 
 images:
   - url: /images/recipe_images/creme_brulee/00100lPORTRAIT_00100_BURST20191020211634842_COVER.jpg
