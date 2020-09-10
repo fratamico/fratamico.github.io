@@ -71,26 +71,6 @@ title: fun
 
     <div class="container">
       
-      <h1>Recipes</h1>
-      <p class="lead">I've always enjoyed cooking and baking and making up my own recipes, but COVID provided a nice time to finally formally preserve the creations online.</p>
-
-      <h3>Some Recent Creations</h3>
-      {% for post in site.posts %}
-        <div class="square">
-          <a href="{{post.permalink}}" class="blog_text">
-            <p>{{post.title}}</p>
-            <div class="subimage" style="background-image: url('{{post.image}}');">
-            </div>
-          </a>
-        </div>
-      {% endfor %}
-
-      <!-- 1st row verticaly centered images in square columns -->
-    </div>
-
-
-    <div class="container">
-      
       <h1>Blog</h1>
       <p class="lead">I really enjoy writing about tech and travel :) Check out all my posts on <a href="https://medium.com/@lauren.fratamico">medium</a> and <a href="https://laurenfratamico.wordpress.com/">wordpress</a>!</p><!--, drawing on methods of machine learning, statistics, and visualization-->
 
@@ -156,6 +136,28 @@ title: fun
       </div>
 
     </div>
+
+  </div>
+
+  <div class="container">
+      
+      <h1>Recipes</h1>
+      <p class="lead">I've always enjoyed cooking and baking and making up my own recipes, but COVID provided a nice time to finally formally preserve the creations online.</p>
+
+      <h3>Some Recent Creations</h3>
+      {% for post in site.posts %}
+        <div class="square">
+          <a href="{{post.permalink}}" class="blog_text">
+            <p>{{post.title}}</p>
+            <div class="subimage" style="background-image: url('{{post.image}}');">
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+
+      <!-- 1st row verticaly centered images in square columns -->
+    </div>
+    
 
       <!-- 2nd row verticaly centered images in square columns -->
 
