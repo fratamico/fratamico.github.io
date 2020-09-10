@@ -6,18 +6,15 @@ subtitle: yummy 🤤
 image: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
 
 images:
-  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+  - url: /images/recipe_images/creme_brulee/00100lPORTRAIT_00100_BURST20191020211634842_COVER.jpg
     title: wefwe
     subtitle: wefw
-  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+  - url: /images/recipe_images/creme_brulee/IMG_20191020_202635.jpg
     title: wefwe
     subtitle: wefw
-  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
+  - url: /images/recipe_images/creme_brulee/MVIMG_20200411_165514.jpg
     title: wefwe
     subtitle: wefw
-  - url: https://s3-us-west-2.amazonaws.com/s.cdpn.io/158072/woman-camera.jpg
-    title: wefwefwefwfwefwef
-    subtitle: fwewefwfwe
   
 ingredients:
   - 2 C heavy cream
