@@ -3,7 +3,7 @@ layout: recipe
 permalink: /recipes/danish_lasagna
 title: Danish Lasagna
 subtitle: A twist on a classic that includes mushrooms, sweet potatoes, and béchamel.
-image: /images/recipe_images/danish_lasagna/DSC_1582.JPG
+image: /images/recipe_images/danish_lasagna/DSC_1579.JPG
 
 images:
   - url: /images/recipe_images/danish_lasagna/DSC_1569.JPG
