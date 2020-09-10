@@ -21,6 +21,25 @@ images:
   - url: /images/recipe_images/danish_lasagna/DSC_1569.JPG
     title: wefwe
     subtitle: wefw
+
+  
+ingredients:
+  - 1 box lasagna plates
+  - 2-3 portobello mushrooms
+  - 1 kabocha squash or 1 large yam
+  - 1 large russet potato
+  - 1 large yellow onion
+  - 300g spinach
+  - 1 spoon of srichacha
+  - Butter
+  - 28 oz crushed tomatoes
+  - 4 oz tomato paste
+  - 25g rosemary
+
+---
+
+Recipe coming soon!
+
   - url: /images/recipe_images/danish_lasagna/DSC_1570.JPG
     title: wefwe
     subtitle: wefw
@@ -63,21 +82,4 @@ images:
   - url: /images/recipe_images/danish_lasagna/2020-03-15 19.39.52.jpg
     title: wefwe
     subtitle: wefw
-  
-ingredients:
-  - 1 box lasagna plates
-  - 2-3 portobello mushrooms
-  - 1 kabocha squash or 1 large yam
-  - 1 large russet potato
-  - 1 large yellow onion
-  - 300g spinach
-  - 1 spoon of srichacha
-  - Butter
-  - 28 oz crushed tomatoes
-  - 4 oz tomato paste
-  - 25g rosemary
-
----
-
-Recipe coming soon!
 
