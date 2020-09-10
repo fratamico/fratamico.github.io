@@ -59,7 +59,23 @@ ingredients:
 
 ---
 
-Recipe coming soon!
+Bechamel (mozarella cheese rustic cut, milk, flour) x3 https://www.epicurious.com/recipes/food/views/white-sauce-or-bechamel-sauce-40046 (no pepper, but add 12 oz mozzarella)
+
+6-12 Garlic for bechamel
+
+Extra cheese to put on top (rustic cut!)
+
+
+
+Notes:
+
+Undercook the mushrooms slightly
+Heat the spinach and drain it if needed
+Make bechamel, add 4/5 of the cheese and mix it with tomato sauce
+Start with sauce and lasagna plates on the bottom and then build up the lasagna, adding 2-3 ingredients between each plate layer
+Lasagna plates should be fully covered in sauce so they cook well
+Finish with sauce on top
+Put in oven for about 40-60 minutes. 10 minutes before it’s done, add extra cheese on top. It’s done when the cheese is golden
 
   
   
