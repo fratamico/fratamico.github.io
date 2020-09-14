@@ -44,6 +44,7 @@ ingredients:
   - 4 oz mozzarella cheese rustic cut for topping
 
 ---
+<br/>
 
 #### Prep filling
 Many of these steps can be done in parallel.
@@ -59,6 +60,7 @@ Many of these steps can be done in parallel.
 - **Step 5:** If lasagna plates are not over-ready, boil them according to their packaged directions.
 
 
+<br/>
 
 #### Prep sauce
 The sauce is a combination of bechamel, crushed tomatoes, and mozzarella cheese.
@@ -70,6 +72,7 @@ The sauce is a combination of bechamel, crushed tomatoes, and mozzarella cheese.
 - **Step 3:** Stir the 28 oz of crushed tomatoes and 4 oz tomato paste into the bechamel.
 
 
+<br/>
 
 #### Combine and bake
 
