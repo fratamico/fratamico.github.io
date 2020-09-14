@@ -46,6 +46,7 @@ ingredients:
 ---
 
 **Prep filling**
+
 Many of these steps can be done in parallel.
 
 **Step 1:** Preheat the oven to 400. Slice the potato and yam thinly. Use a mandoline if you have one. (If using kabocha instead of yam, cut into chunks. It's fine to leave the thick skin on.) Mix with olive oil in a bowl. Lay on cookie sheets to back in as few layers as possible. Fine to use multiple pans! Bake for ~30 mins at 400, until almost crisp.
@@ -59,7 +60,9 @@ Many of these steps can be done in parallel.
 **Step 5:** If lasagna plates are not over-ready, boil them according to their packaged directions.
 
 
+
 **Prep sauce**
+
 The sauce is a combination of bechamel, crushed tomatoes, and mozzarella cheese.
 
 **Step 1:** Chop 12 cloves garlic into finely chopped pieces.
@@ -67,6 +70,7 @@ The sauce is a combination of bechamel, crushed tomatoes, and mozzarella cheese.
 **Step 2:** (Make the bechamel). Heat 6 Tbs butter over low heat until melted. Add the 6 Tbs butter and stir well. Stir constantly for a few minutes until well combined and starting to thicken. Add the chopped garlic. Add 3.75 C of milk, ~1 C at a time. Continue to stir constantly so that the butter, flour, and milk are well combined. Add salt. Heat over low heat for ~5 minutes until thicker. Add 12 oz of rustic cut mozzarella.
 
 **Step 3:** Stir the 28 oz of crushed tomatoes and 4 oz tomato paste into the bechamel.
+
 
 
 **Combine and bake**
