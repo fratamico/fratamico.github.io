@@ -45,9 +45,7 @@ ingredients:
 
 ---
 
-Prep filling
-------
-
+#### Prep filling
 Many of these steps can be done in parallel.
 
 - **Step 1:** Preheat the oven to 400. Slice the potato and yam thinly. Use a mandoline if you have one. (If using kabocha instead of yam, cut into chunks. It's fine to leave the thick skin on.) Mix with olive oil in a bowl. Lay on cookie sheets to back in as few layers as possible. Fine to use multiple pans! Bake for ~30 mins at 400, until almost crisp.
@@ -62,9 +60,7 @@ Many of these steps can be done in parallel.
 
 
 
-Prep sauce
-------
-
+#### Prep sauce
 The sauce is a combination of bechamel, crushed tomatoes, and mozzarella cheese.
 
 - **Step 1:** Chop 12 cloves garlic into finely chopped pieces.
@@ -75,8 +71,7 @@ The sauce is a combination of bechamel, crushed tomatoes, and mozzarella cheese.
 
 
 
-Combine and bake
-------
+#### Combine and bake
 
 - **Step 1:** Set the oven at 375. Chop the mushrooms and onions in smaller pieces to be ready to add them to .
 
