@@ -30,7 +30,7 @@ ingredients:
   - 500g mushrooms (preferably portobello)
   - 1 Tbs butter
   - 1 Tbs sriracha
-  - 300g frozen chopped spinach
+  - 500g frozen chopped spinach
   - 1 box lasagna plates - preferably oven-ready
   - 6 Tbs butter
   - 6 Tbs flour
@@ -67,7 +67,7 @@ The sauce is a combination of bechamel, crushed tomatoes, and mozzarella cheese.
 
 - **Step 1:** Chop 12 cloves garlic into finely chopped pieces.
 
-- **Step 2:** (Make the bechamel). Heat 6 Tbs butter over low heat until melted. Add the 6 Tbs butter and stir well. Stir constantly for a few minutes until well combined and starting to thicken. Add the chopped garlic. Add 3.75 C of milk, ~1 C at a time. Continue to stir constantly so that the butter, flour, and milk are well combined. Add salt. Heat over low heat for ~5 minutes until thicker. Add 12 oz of rustic cut mozzarella.
+- **Step 2:** (Make the bechamel). Heat 6 Tbs butter over low heat until melted. Add the 6 Tbs flour and stir well. Stir constantly for a few minutes until well combined and starting to thicken. Add the chopped garlic. Add 3.75 C of milk, ~1 C at a time. Continue to stir constantly so that the butter, flour, and milk are well combined. Add salt. Heat over low heat for ~5 minutes until thicker. Add 12 oz of rustic cut mozzarella.
 
 - **Step 3:** Stir the 28 oz of crushed tomatoes and 4 oz tomato paste into the bechamel.
 
@@ -76,12 +76,17 @@ The sauce is a combination of bechamel, crushed tomatoes, and mozzarella cheese.
 
 #### Combine and bake
 
-- **Step 1:** Set the oven at 375. Chop the mushrooms and onions in smaller pieces to be ready to add them to .
+- **Step 1:** Set the oven at 375. Chop the mushrooms and onions in smaller pieces so they're ready to be added in the lasagna.
 
-- **Step 2:** Using a 9x13 pan, begin to layer the lasagna. Start with a layer of plates, then cover it fully with a layer of sauce. Next add a couple of of vegetables (perhaps yams and onions). Then add more plates, more sauce, and more veggies. When doing the layer of potatoes, cover with the chopped rosemary. The top layer should be plates covered with sauce. The lasagna plates should be fully covered in sauce so they cook well.
+- **Step 2:** Using a 9x13 pan, begin to layer the lasagna. Start with a layer of plates, then cover it fully with a layer of sauce. Next add the yams and mushrooms (these come first as they're the biggest pieces). Then add more plates, more sauce, and more veggies. When doing the layer of potatoes, cover with the chopped rosemary. The top layer should be plates covered with sauce. The lasagna plates should be fully covered in sauce so they cook well.
 
 - **Step 3:** Bake in the oven at 375 for 35 minutes. Once it looks almost ready, add the remaining 4 oz of cheese and backe until golden (~5-10 minutes, may have to use broil).
 
+<br/>
+
+#### Making it quicker
+
+- The potatoes can perhaps be replaced by neutral potato chips.
 
 
 
